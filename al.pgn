@@ -1,0 +1,31 @@
+[Event "Unknown"]
+[Site "?"]
+[Date "2020.2.29"]
+[Round "1"]
+[White "Human"]
+[Black "Computer"]
+[Result "1-0"]
+1. Nc3 Nf6
+2. e4 Nc6
+3. Nf3 e5
+4. d4 exd4
+5. Nxd4 Nxe4
+6. Nxe4 Bb4+
+7. c3 Bxc3+
+8. bxc3 d5
+9. Nc5 Qe7+
+10. Qe2 Nxd4
+11. Qxe7+ Kxe7
+12. cxd4 f5
+13. Bg5+ Kd6
+14. Nd3 Kc6
+15. Rc1+ Kb6
+16. Rb1+ Ka5
+17. Bd2+ Ka4
+18. Rb4+ Ka3
+19. Bc1+ Kxa2
+20. Rb2+ Ka1
+21. Nb4 Re8+
+22. Kd2 Re2+
+23. Kxe2 f4
+24. Nc2#
